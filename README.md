@@ -1,5 +1,4 @@
 # AUTOSAR_cpp14
-# AUTOSAR_cpp14
 # AUTOSAR C++14 Checker
 
 ## Overview
