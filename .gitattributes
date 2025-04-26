@@ -1,3 +1,6 @@
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 *.txt linguist-documentation
+
+docs/** linguist-documentation
+generated/** linguist-generated
